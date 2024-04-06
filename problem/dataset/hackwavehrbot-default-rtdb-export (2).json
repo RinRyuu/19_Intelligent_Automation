@@ -1,0 +1,125 @@
+{
+  "users": [
+      1,
+      {
+          "email": "user1@example.com",
+          "gender": "Male",
+          "hire_date": "2023-01-15",
+          "manager_id": 1,
+          "password": "password123",
+          "position": "Software Engineer",
+          "salary": 60000,
+          "username": "user1"
+      },
+      {
+          "email": "user2@example.com",
+          "gender": "Female",
+          "hire_date": "2023-02-20",
+          "manager_id": 1,
+          "password": "password456",
+          "position": "Data Scientist",
+          "salary": 75000,
+          "username": "user2"
+      },
+      {
+          "email": "user3@example.com",
+          "gender": "Female",
+          "hire_date": "2023-03-18",
+          "manager_id": 1,
+          "password": "password3",
+          "position": "Engineer",
+          "salary": 53000,
+          "username": "user3"
+      },
+      {
+          "email": "user4@example.com",
+          "gender": "Male",
+          "hire_date": "2023-03-19",
+          "manager_id": 1,
+          "password": "password4",
+          "position": "Developer",
+          "salary": 54000,
+          "username": "user4"
+      },
+      {
+          "email": "user5@example.com",
+          "gender": "Female",
+          "hire_date": "2023-03-20",
+          "manager_id": 1,
+          "password": "password5",
+          "position": "Developer",
+          "salary": 50000,
+          "username": "user5"
+      },
+      {
+          "email": "user6@example.com",
+          "gender": "Male",
+          "hire_date": "2023-03-21",
+          "manager_id": 1,
+          "password": "password6",
+          "position": "Engineer",
+          "salary": 51000,
+          "username": "user6"
+      },
+      {
+          "email": "user7@example.com",
+          "gender": "Female",
+          "hire_date": "2023-03-22",
+          "manager_id": 1,
+          "password": "password7",
+          "position": "Developer",
+          "salary": 52000,
+          "username": "user7"
+      },
+      {
+          "email": "user8@example.com",
+          "gender": "Male",
+          "hire_date": "2023-03-23",
+          "manager_id": 1,
+          "password": "password8",
+          "position": "Developer",
+          "salary": 53000,
+          "username": "user8"
+      },
+      {
+          "email": "user9@example.com",
+          "gender": "Female",
+          "hire_date": "2023-03-24",
+          "manager_id": 1,
+          "password": "password9",
+          "position": "Engineer",
+          "salary": 54000,
+          "username": "user9"
+      },
+      {
+          "email": "user10@example.com",
+          "gender": "Male",
+          "hire_date": "2023-03-15",
+          "manager_id": 1,
+          "password": "password10",
+          "position": "Developer",
+          "salary": 50000,
+          "username": "user10"
+      },
+      {
+          "email": "user11@example.com",
+          "gender": "Female",
+          "hire_date": "2023-03-16",
+          "manager_id": 1,
+          "password": "password11",
+          "position": "Developer",
+          "salary": 51000,
+          "username": "user11"
+      },
+      {
+          "email": "user12@example.com",
+          "gender": "Male",
+          "hire_date": "2023-03-17",
+          "manager_id": 1,
+          "password": "password12",
+          "position": "Engineer",
+          "salary": 52000,
+          "username": "user12"
+      }
+  ]
+}
